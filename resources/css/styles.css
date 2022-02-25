@@ -1,0 +1,36 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: blanchedalmond;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: maroon;
+}
+
+table {
+  border: 2px solid maroon;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: chocolate;
+}
+
+td {
+  border-top: 1px solid maroon;
+}
+
+.tag {
+  font-family: monospace;
+  background-color: cornsilk;
+}
